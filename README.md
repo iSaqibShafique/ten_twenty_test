@@ -2,15 +2,28 @@
 
 A new Flutter project.
 
-## Getting Started
+## About the App
 
-This project is a starting point for a Flutter application.
+This is a mobile app for movies, built using Flutter. It utilizes the following technologies:
+- **DIO** for networking
+- **BLoC** for state management
+- **YoutubeVideoPlayer** for video playback
 
-A few resources to get you started if this is your first Flutter project:
+The app is fully functional on both **iOS** and **Android**.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Videos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Videos for iOS and Android
+
+- [iOS - Simulator iPhone 16 Pro Max, iOS 18.3.0](https://drive.google.com/file/d/1RnrTGYu9iE8eLd_Q1_UaCzstuwHEfcRu/view?usp=sharing)
+- [Android - Real Device - OnePlus 9 Pro - Android 14](https://drive.google.com/file/d/1ci_DuldxEF_qsu63IXeumgu-aYa2aYc4/view?usp=sharing)
+
+
+## Android Package
+
+- [Universal](https://drive.google.com/file/d/1EBmO9WfVklGctldkU4aKSfn59klXpf-r/view?usp=sharing)
+
+
+## Code Structure
+
+- [Video](https://drive.google.com/file/d/1-dC0yWDBfdSo2y4vQN5UH1IHSoRbNyfS/view?usp=sharing)
